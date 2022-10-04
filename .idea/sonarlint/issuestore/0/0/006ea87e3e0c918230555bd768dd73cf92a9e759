@@ -1,0 +1,9 @@
+
+7kotlin:S1128"Remove this unused import.(Íå‘Áûÿÿÿÿ
+;kotlin:S1874$"#Deprecated code should not be used.(Œ§‘Ÿ
+@kotlin:S18743"#Deprecated code should not be used.(ó‰ïüÿÿÿÿ
+@kotlin:S1874C"#Deprecated code should not be used.(ïï–äøÿÿÿÿ
+@kotlin:S1874S"#Deprecated code should not be used.(åîÆ‘ÿÿÿÿÿ
+;kotlin:S1874c"#Deprecated code should not be used.(”’‹ 
+;kotlin:S1874s"#Deprecated code should not be used.(¾ŞÎÃ
+jkotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Å£³¾
